@@ -1,0 +1,6 @@
+﻿  12.11.2011View.cpp
+E:\GitHub\GDI\GDI\12.11.2011\12.11.2011\12.11.2011\12.11.2011View.cpp(133,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\12.11.2011\12.11.2011\12.11.2011\12.11.2011View.cpp(134,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\12.11.2011\12.11.2011\12.11.2011\12.11.2011View.cpp(135,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\12.11.2011\12.11.2011\12.11.2011\12.11.2011View.cpp(136,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  12.11.2011.vcxproj -> E:\GitHub\GDI\GDI\12.11.2011\12.11.2011\Debug\12.11.2011.exe

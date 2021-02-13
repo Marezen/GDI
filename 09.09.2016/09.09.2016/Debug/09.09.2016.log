@@ -1,0 +1,29 @@
+﻿  09.09.2016.cpp
+  09.09.2016View.cpp
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(99,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(100,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(101,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(102,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(113,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(114,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(115,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(116,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(117,15): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(118,15): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(156,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(156,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(156,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(157,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(188,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(188,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(209,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(209,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(236,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(236,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(263,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(263,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(283,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(284,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\09.09.2016\09.09.2016View.cpp(285,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  09.09.2016.vcxproj -> E:\GitHub\GDI\GDI\09.09.2016\09.09.2016\Debug\09.09.2016.exe

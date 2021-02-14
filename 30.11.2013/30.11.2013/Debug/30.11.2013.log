@@ -1,0 +1,9 @@
+﻿  30.11.2013View.cpp
+E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\30.11.2013\30.11.2013View.cpp(126,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\30.11.2013\30.11.2013View.cpp(132,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\30.11.2013\30.11.2013View.cpp(135,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\30.11.2013\30.11.2013View.cpp(158,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\30.11.2013\30.11.2013View.cpp(159,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\30.11.2013\30.11.2013View.cpp(160,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\30.11.2013\30.11.2013View.cpp(161,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  30.11.2013.vcxproj -> E:\GitHub\GDI\GDI\30.11.2013\30.11.2013\Debug\30.11.2013.exe

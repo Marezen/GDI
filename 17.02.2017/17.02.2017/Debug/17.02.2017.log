@@ -1,0 +1,27 @@
+﻿  17.02.2017View.cpp
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(61,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(61,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(92,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(93,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(94,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(95,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(106,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(107,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(108,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(109,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(110,15): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(111,15): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(139,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(140,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(141,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(142,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(169,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(176,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(176,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(176,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(176,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(177,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(182,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(189,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\17.02.2017\17.02.2017View.cpp(190,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  17.02.2017.vcxproj -> E:\GitHub\GDI\GDI\17.02.2017\17.02.2017\Debug\17.02.2017.exe

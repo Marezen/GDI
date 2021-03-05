@@ -1,0 +1,11 @@
+﻿  05.10.2011 - DetelineView.cpp
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(175,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(177,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(207,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(224,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(224,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(266,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(267,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(268,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\05.10.2011 - Deteline\05.10.2011 - DetelineView.cpp(269,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  05.10.2011 - Deteline.vcxproj -> C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.10.2011 - Deteline\Debug\05.10.2011 - Deteline.exe

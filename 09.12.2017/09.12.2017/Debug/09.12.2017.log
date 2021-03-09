@@ -1,0 +1,21 @@
+﻿  09.12.2017View.cpp
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(109,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(111,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(131,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(131,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(132,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(138,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(139,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(140,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(140,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(140,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(140,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(144,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(144,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(144,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(144,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(164,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(165,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(166,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\09.12.2017\09.12.2017View.cpp(167,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  09.12.2017.vcxproj -> C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\09.12.2017\Debug\09.12.2017.exe

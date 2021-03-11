@@ -1,0 +1,21 @@
+﻿  23.11.2007View.cpp
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(83,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(84,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(85,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(86,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(87,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(88,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(109,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(110,18): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(123,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(130,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(132,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(134,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(156,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(157,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(158,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(159,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(160,15): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(161,15): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\23.11.2007\23.11.2007View.cpp(172,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  23.11.2007.vcxproj -> C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\23.11.2007\Debug\23.11.2007.exe

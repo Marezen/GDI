@@ -42,59 +42,105 @@ void CMy25122011View::OnDraw(CDC* pDC)
 
 	CRect rect;
 	GetClientRect(&rect);
-	pDC->SetWindowExt(rect.right, rect.bottom);
-	pDC->SetViewportExt(rect.right, rect.bottom);
 
-	Translate(pDC, rect.CenterPoint().x, rect.CenterPoint().y);
-	CreateGradientBitmap(pDC, rect.Width(), rect.Height(), RGB(255, 255, 255), RGB(0, 0, 0));
+	CDC* memDC = this->createGradientBitmap(pDC, 500, 500, RGB(255, 255, 255), RGB(0, 0, 0));
+	//ako hocemo da prikazemo rectangle slike onda ide ovo:
+	//pDC->SetStretchBltMode(HALFTONE);
+	//pDC->StretchBlt(100, 100, 200, 200, memDC, 0, 0, w, h, SRCCOPY);
+	//a da prikazemo zvezdu:
+	this->drawStar(pDC, memDC, 500, 500, 8, 150, 50, rect.Width()/2, rect.Height()/2);
 
+	delete memDC;
 }
 //Funkcije za zadatak
-void CMy25122011View::CreateGradientBitmap(CDC* pDC, double w, double h, COLORREF col1, COLORREF col2)
+CDC* CMy25122011View::createGradientBitmap(CDC* pDC, double w, double h, COLORREF col1, COLORREF col2)
 {
-	int w1 = (int)w;
-	int h1 = (int)h;
+	CDC* memDC = new CDC();
+	memDC->CreateCompatibleDC(pDC);
+
 	CBitmap bmp;
-	bmp.CreateCompatibleBitmap(pDC, w, h);
-	DImage im(bmp);
-	byte* bytes = im.GetDIBBits();
+	bmp.CreateBitmap(w,h,1,32,NULL); //kreiramo bitmapu
+	memDC->SelectObject(&bmp);
+	CPen pen;
+	pen.CreatePen(PS_NULL,0,RGB(0,0,0));
+	CPen* oldPen = memDC->SelectObject(&pen);
 
-	byte B1 = col1;
-	col1 = col1 >> 8;
-	byte G1 = col1;
-	col1 = col1 >> 8;
-	byte R1 = col1;
+	CBrush brush;
+	CBrush* oldBrush = memDC->SelectObject(&brush);
 
-	byte B2 = col2;
-	col2 = col2 >> 8;
-	byte G2 = col2;
-	col2 = col2 >> 8;
-	byte R2 = col2;
+	BYTE r1 = ((int)col1 & 0x000000FF);
+	BYTE g1 = ((int)col1 & 0x0000FF00) >> 8;
+	BYTE b1 = ((int)col1 & 0x00FF0000) >> 16;
 
-	int j = 0;
-	double rmax = sqrt(pow(0 - w / 2.0, 2.0) + pow(0 - h / 2.0, 2.0));
-	double rtr, intc1, intc2;
-	for (int i = 0; i < im.Width() * im.Height() * im.BPP(); i = i + im.BPP())
+	BYTE r2 = ((int)col2 & 0x000000FF);
+	BYTE g2 = ((int)col2 & 0x0000FF00) >> 8;
+	BYTE b2 = ((int)col2 & 0x00FF0000) >> 16;
+	BYTE ri, gi, bi;
+	int n = w * sqrt(2.0) / 2;
+	int x0 = w / 2;
+
+	//////////////////////////////////////////////////////////////////////////////////
+
+	int prevMode = memDC->SetGraphicsMode(GM_ADVANCED);
+	XFORM newT, oldT;
+	memDC->GetWorldTransform(&oldT);
+
+	newT.eM11 = 1;
+	newT.eM12 = 0;
+	newT.eM21 = 0;
+	newT.eM22 = h / w;
+	newT.eDx = 0;
+	newT.eDy = 0;
+
+	memDC->SetWorldTransform(&newT);
+	for (int i = n; i >= 0; i--)
 	{
-		int column = (i % (im.Width() * im.BPP())) / 4;
+		ri = r1 + i * (r2 - r1) / n;
+		gi = g1 + i * (g2 - g1) / n;
+		bi = b1 + i * (b2 - b1) / n;
 
-		rtr = sqrt(pow((double)(column - w / 2.0), 2.0) + pow((double)(j - h / 2.0), 2.0));
-		intc2 = rtr / rmax;
-		intc1 = 1 - intc2;
+		//za svaki piksel  kreiramo brush 
+		brush.DeleteObject();
+		brush.CreateSolidBrush(RGB(ri, gi, bi));
+		memDC->SelectObject(&brush);
 
-		int R = ((int)((int)R1 * intc1 + (int)R2 * intc2));
-		int G = ((int)((int)G1 * intc1 + (int)G2 * intc2));
-		int B = ((int)((int)B1 * intc1 + (int)B2 * intc2));
-
-		bytes[i] = (byte)R;
-		bytes[i + 1] = (byte)G;
-		bytes[i + 2] = (byte)B;
-
-		im.Update();
-		if (column == 0 && i != 0)
-			j++;
+		memDC->Ellipse(x0 - i - 1, x0 - i - 1, x0 + i + 1, x0 + i + 1);
 	}
-	im.Draw(pDC, CRect(0, 0, w1, h1), CRect(0, 0, w1, h1));
+	memDC->SetWorldTransform(&oldT);
+	memDC->SetGraphicsMode(prevMode);
+
+	pen.DeleteObject();
+	brush.DeleteObject();
+	bmp.DeleteObject();
+	memDC->SelectObject(&oldPen);
+	memDC->SelectObject(&oldBrush);
+	return memDC;
+}
+
+void CMy25122011View::drawStar(CDC* pDC, CDC* bmpDC, int wBmp, int hBmp, int N, int R1, int R2, int Xc, int Yc)
+{
+	CPoint* points = new CPoint[2 * N]; //N kraka(najdalje tacke) i + jos N tacaka koje su one blize
+	double pi = acos(-1.0);
+	for (int i =0 ;i<N; i++)
+	{
+		points[2 * i].x = Xc - R1 * sin(2*pi*i/N);
+		points[2 * i].y = Yc - R1 * cos(2 * pi * i / N);
+
+		points[2 * i + 1].x = Xc - R2 * sin(2 * pi * i / N + pi / N);
+		points[2 * i + 1].y = Yc - R2 * cos(2 * pi * i / N + pi / N);
+	}
+	//nakon sto podesimo sve tacke neophodne za crtanje zvezde
+	//treba napraviti region koji ce prikazati samo deo slike koji je obuhvacen poligonom
+	CRgn clipRegion;
+	clipRegion.CreatePolygonRgn(points, N * 2, WINDING);
+	pDC->SelectClipRgn(&clipRegion);
+
+	pDC->SetStretchBltMode(HALFTONE);
+	pDC->StretchBlt(Xc-R1,Yc-R1,2*R1,2*R1,bmpDC,0,0,wBmp,hBmp,SRCCOPY);
+	delete points;
+	clipRegion.DeleteObject();
+
+
 }
 
 void CMy25122011View::Translate(CDC* pDC,float dX,float dY)

@@ -9,9 +9,10 @@ public:
 public:
 	virtual void OnDraw(CDC* pDC);  // overridden to draw this view
 	virtual BOOL PreCreateWindow(CREATESTRUCT& cs);
+
 	//funkcije:
-	void CreateGradientBitmap(CDC* pDC,double w,double h,COLORREF col1,COLORREF col2);
-	void DrawStar(CDC* pDC,CDC* bmpDC,int N,int R1,int R2,int xC,int yC);
+	CDC* createGradientBitmap(CDC* pDC, double w, double h, COLORREF col1, COLORREF col2);
+	void drawStar(CDC* pDC, CDC* bmpDC, int wBmp, int hBmp, int N, int R1, int R2, int Xc, int Yc);
 
 	//transformacije
 	void Translate(CDC* pDC,float dX,float dY);

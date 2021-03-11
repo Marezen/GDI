@@ -1,12 +1,11 @@
 ﻿  25.12.2011View.cpp
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(48,57): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(48,35): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(59,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(59,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(63,10): warning C4244: 'initializing': conversion from 'COLORREF' to 'byte', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(65,10): warning C4244: 'initializing': conversion from 'COLORREF' to 'byte', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(67,10): warning C4244: 'initializing': conversion from 'COLORREF' to 'byte', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(69,10): warning C4244: 'initializing': conversion from 'COLORREF' to 'byte', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(71,10): warning C4244: 'initializing': conversion from 'COLORREF' to 'byte', possible loss of data
-C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(73,10): warning C4244: 'initializing': conversion from 'COLORREF' to 'byte', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(62,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(62,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(79,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(80,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(91,16): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(126,24): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(127,24): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(129,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\25.12.2011\25.12.2011View.cpp(130,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
   25.12.2011.vcxproj -> C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\25.12.2011\x64\Debug\25.12.2011.exe

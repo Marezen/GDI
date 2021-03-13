@@ -1,0 +1,35 @@
+﻿  05.02.2020View.cpp
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(62,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(90,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(91,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(117,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(118,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(122,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(124,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(124,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(129,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(130,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(131,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(132,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(135,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(136,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(140,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(145,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(146,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(148,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(148,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(151,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(151,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(152,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(152,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(156,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(156,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(156,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(159,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(163,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(163,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(222,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(223,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(224,14): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\05.02.2020\05.02.2020View.cpp(225,17): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  05.02.2020.vcxproj -> C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\05.02.2020\Debug\05.02.2020.exe

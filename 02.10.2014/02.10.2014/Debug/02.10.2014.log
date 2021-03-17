@@ -1,0 +1,12 @@
+﻿  02.10.2014View.cpp
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(94,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(102,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(102,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(139,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(139,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(155,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(155,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(92,25): warning C4101: 'desniY': unreferenced local variable
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(95,6): warning C4101: 'nivo': unreferenced local variable
+C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\02.10.2014\02.10.2014View.cpp(92,12): warning C4101: 'desniX': unreferenced local variable
+  02.10.2014.vcxproj -> C:\Users\Marko Miloradovic\OneDrive\Radna površina\Grafika - Zadaci\02.10.2014\Debug\02.10.2014.exe
